@@ -1,3 +1,13 @@
+DEPRECATED
+==========
+
+This project has been moved to [dmelo/vswn](https://github.com/dmelo/vswm).
+Considering it deals only with wireless networks, it seem suitable to rename
+it to VSWM - Very Simple Wireless Manager.
+
+
+
+
 VSNM - Very Simple Network Manager
 ==================================
 
